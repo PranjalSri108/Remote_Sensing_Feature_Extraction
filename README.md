@@ -3,6 +3,8 @@
 
 This project implements an advanced satellite image segmentation model using an improved DeepLabv3+ architecture. It's designed to classify and extract various land features and man-made structures from high-resolution satellite imagery.
 
+![alt text](https://github.com/PranjalSri108/Satellite_Image_Feature_Extraction_with_Improved_DeepLabv3/blob/main/img.jpg?raw=true)
+
 ## Techniques Used
 
 1. Deep Learning
@@ -59,8 +61,6 @@ The model uses an improved DeepLabv3+ architecture with the following components
    - Streamlit-based user interface
    - Feature selection/deselection option
    - Display of segmentation masks and bounding boxes
-  
-![alt text](https://github.com/PranjalSri108/Satellite_Image_Feature_Extraction_with_Improved_DeepLabv3/blob/main/img.jpg?raw=true)
 
 ## Results
 
