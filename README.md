@@ -60,7 +60,7 @@ The model uses an improved DeepLabv3+ architecture with the following components
    - Feature selection/deselection option
    - Display of segmentation masks and bounding boxes
   
-![alt text](https://github.com/PranjalSri108/Satellite_Image_Feature_Extraction_with_Improved_DeepLabv3+/blob/main/img.jpg?raw=true)
+![alt text](https://github.com/PranjalSri108/Satellite_Image_Feature_Extraction_with_Improved_DeepLabv3+/blob/main/Deeplab_architecture.png?raw=true)
 
 ## Results
 
