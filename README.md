@@ -36,7 +36,7 @@ The model uses an improved DeepLabv3+ architecture with the following components
 5. Output layer for multi-class segmentation
 
 ![alt text](https://github.com/PranjalSri108/Satellite_Image_Feature_Extraction_with_Improved_DeepLabv3/blob/main/garph_1.jpg?raw=true)
-![alt text](https://github.com/PranjalSri108/Satellite_Image_Feature_Extraction_with_Improved_DeepLabv3/blob/main/groph.jpg?raw=true)
+![alt text](https://github.com/PranjalSri108/Satellite_Image_Feature_Extraction_with_Improved_DeepLabv3/blob/main/graoh.jpg?raw=true)
 
 
 ## Implementation Details
